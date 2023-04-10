@@ -41,9 +41,11 @@ In the above code first, we ask the user to enter the roll number of the student
 4. Defining find total number of students in the database method.
 
 This method counts the total number of students present in the database. As we were maintaining a variable count for maintaining the total number of students so this method simply prints the value of that variable.
+
 ![image](https://user-images.githubusercontent.com/103095458/230976827-26423268-6a06-48f3-a37c-893ae5064727.png)
 
 4.Defining delete student by roll number method. This method takes the roll number as input from the user and removes it from the database.
+
 ![image](https://user-images.githubusercontent.com/103095458/230976987-c857dbc9-2082-4f37-8994-437a04a9a9e8.png)
 ![image](https://user-images.githubusercontent.com/103095458/230977078-05b5f8fc-b01a-42c9-9671-49a7379db24d.png)
 
