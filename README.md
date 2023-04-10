@@ -25,6 +25,7 @@ Steps to make the project:
 1. Defining the C++ class to store the information of students.
 
 ![image](https://user-images.githubusercontent.com/103095458/230975498-031dc6e4-4dc6-4bde-9f6d-3a4565962d72.png)
+
 The above class  contains string name,  int roll_number, float marks and float percentage of a particular student is enrolled in. 
 
 2. Defining add student method. This method takes user input for the various fields present in the student structure and adds the student to the database.
